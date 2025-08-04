@@ -1,0 +1,67 @@
+{
+  "hash": "535498b7",
+  "configHash": "93ae3cb6",
+  "lockfileHash": "5b788278",
+  "browserHash": "ca375560",
+  "optimized": {
+    "@angular/common": {
+      "src": "../../../../../../node_modules/@angular/common/fesm2022/common.mjs",
+      "file": "@angular_common.js",
+      "fileHash": "280f4116",
+      "needsInterop": false
+    },
+    "@angular/common/http": {
+      "src": "../../../../../../node_modules/@angular/common/fesm2022/http.mjs",
+      "file": "@angular_common_http.js",
+      "fileHash": "8f9bb393",
+      "needsInterop": false
+    },
+    "@angular/core": {
+      "src": "../../../../../../node_modules/@angular/core/fesm2022/core.mjs",
+      "file": "@angular_core.js",
+      "fileHash": "88d71f05",
+      "needsInterop": false
+    },
+    "@angular/forms": {
+      "src": "../../../../../../node_modules/@angular/forms/fesm2022/forms.mjs",
+      "file": "@angular_forms.js",
+      "fileHash": "8e421899",
+      "needsInterop": false
+    },
+    "@angular/platform-browser": {
+      "src": "../../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
+      "file": "@angular_platform-browser.js",
+      "fileHash": "6dbc353c",
+      "needsInterop": false
+    },
+    "@angular/router": {
+      "src": "../../../../../../node_modules/@angular/router/fesm2022/router.mjs",
+      "file": "@angular_router.js",
+      "fileHash": "941d22b4",
+      "needsInterop": false
+    },
+    "ngx-monaco-editor-v2": {
+      "src": "../../../../../../node_modules/ngx-monaco-editor-v2/fesm2022/ngx-monaco-editor-v2.mjs",
+      "file": "ngx-monaco-editor-v2.js",
+      "fileHash": "a58a8b38",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-7EVBCCMT": {
+      "file": "chunk-7EVBCCMT.js"
+    },
+    "chunk-AOPJCFPM": {
+      "file": "chunk-AOPJCFPM.js"
+    },
+    "chunk-FBKHSTXE": {
+      "file": "chunk-FBKHSTXE.js"
+    },
+    "chunk-XCORSHR2": {
+      "file": "chunk-XCORSHR2.js"
+    },
+    "chunk-BVLQEN7T": {
+      "file": "chunk-BVLQEN7T.js"
+    }
+  }
+}
